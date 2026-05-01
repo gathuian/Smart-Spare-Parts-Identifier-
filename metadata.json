@@ -1,0 +1,6 @@
+{
+  "name": "Smart Spare Parts Identifier",
+  "description": "An AI-powered industrial tool to identify mechanical parts from images with high confidence and technical specifications.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["image_recognition", "industrial_ai"]
+}
